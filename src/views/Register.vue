@@ -69,7 +69,16 @@ export default {
   methods: {
       submitHandler(e){
           e.preventDefault();
-          console.log('1');
+          this.$http.get('/api/register',{params: this.model}).then(res => {
+            
+            if(res.data.success){
+                console.log(res.data.message);
+            }else{
+              console.log(res.data.message);
+            }
+          }).catch(err => {
+            console.log(err)
+          })
       }
   }
 }

@@ -14,12 +14,22 @@ export default new Router({
       component: Register
     },
     {
-      path: '/',
+      path: '/login',
       name: 'login',
       // route level code-splitting
       // this generates a separate chunk (about.[hash].js) for this route
       // which is lazy-loaded when the route is visited.
       component: () => import(/* webpackChunkName: "about" */ './views/Login.vue')
+    },
+    {
+      path: '/',
+      name: 'login',
+      redirect: '/login'
+    },
+    {
+      path: '/index',
+      name: 'index',
+      component: () => import('./views/Index.vue')
     }
   ]
 })
