@@ -76,7 +76,14 @@ export default {
             if(result.code == '200'){
               this.$store.commit('setToken',result.token);
               window.localStorage.setItem('token', result.token);
-              this.$router.replace({path: '/index'})
+
+              //判断路由是否带参数，带就去重定向参数地址，否则就去首页
+              if (this.$route.query.redirect) {
+                this.$router.replace({path: this.$route.query.redirect})
+              } else {
+                this.$router.replace({path: 'botnav/index'});
+              }
+              
             }else{
               alert(result.message+"else");
             }
