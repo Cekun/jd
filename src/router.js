@@ -1,6 +1,9 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import Register from './views/Register.vue'
+import Index from './views/Index.vue'
+import List from './views/List.vue'
+import Botnav from './views/Botnav.vue'
 
 Vue.use(Router)
 
@@ -34,17 +37,17 @@ export default new Router({
     {
       path: '/botnav',
       name: 'botnav',
-      component: () => import('./views/Botnav.vue'),
+      component:Botnav,
       children:[
         {
           path: 'index',
           name: 'index',
-          component: () => import('./views/Index.vue')
+          component: Index
         },
         {
           path: 'list',
           name: 'list',
-          component: () => import('./views/List.vue')
+          component: List
         },
         {
           path: 'search',

@@ -9,11 +9,13 @@
     @click="clickHandler"
     @change="changeHandler">
   </cube-tab-bar>
+  <span class="countsum">{{countsum}}</span>
 </div>
   
 </template>
 
 <script>
+import {mapGetters} from 'vuex'
 export default {
   
   data () {
@@ -81,11 +83,15 @@ export default {
       case '/botnav/mine':
       this.selectedLabelDefault='我的';
       break;
-    
       default:
         this.selectedLabelDefault='首页';
         break;
     }
+  },
+  computed: {
+    ...mapGetters({
+        countsum:'countSum'
+    })
   }
 }
 
@@ -102,6 +108,17 @@ export default {
   position absolute
   width 100%
   transition all 0.8s ease  
-  
+.countsum
+  position  fixed
+  bottom 33px
+  right 23%
+  z-index  1001
+  width 18px
+  height 18px
+  line-height 18px
+  border-radius 50%
+  font-size 14px
+  background red
+  color #fff  
 </style>
 
