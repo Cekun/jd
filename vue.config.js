@@ -80,104 +80,104 @@ module.exports = {
                       data:[
                           [
                             {
-                                url: 'https://m.xdclass.net',
+                                url: 'https://github.com/Cekun',
                                 image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/learn.png',
                                 label:'分类一'
                             },
                                {
-                                url: 'https://m.xdclass.net',
+                                url: 'https://github.com/Cekun',
                                 image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/learn.png',
                                 label:'分类一'
                             },
                                {
-                                url: 'https://m.xdclass.net',
+                                url: 'https://github.com/Cekun',
                                 image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/learn.png',
                                 label:'分类一'
                             },
                                {
-                                url: 'https://m.xdclass.net',
+                                url: 'https://github.com/Cekun',
                                 image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/learn.png',
                                 label:'分类一'
                             },
                                {
-                                url: 'https://m.xdclass.net',
+                                url: 'https://github.com/Cekun',
                                 image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/learn.png',
                                 label:'分类一'
                             },
                                {
-                                url: 'https://m.xdclass.net',
+                                url: 'https://github.com/Cekun',
                                 image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/learn.png',
                                 label:'分类一'
                             },
                                {
-                                url: 'https://m.xdclass.net',
+                                url: 'https://github.com/Cekun',
                                 image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/learn.png',
                                 label:'分类一'
                             },
                                {
-                                url: 'https://m.xdclass.net',
+                                url: 'https://github.com/Cekun',
                                 image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/learn.png',
                                 label:'分类一'
                             },
                                {
-                                url: 'https://m.xdclass.net',
+                                url: 'https://github.com/Cekun',
                                 image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/learn.png',
                                 label:'分类一'
                             },
                                {
-                                url: 'https://m.xdclass.net',
+                                url: 'https://github.com/Cekun',
                                 image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/learn.png',
                                 label:'分类一'
                             },
                           ],
                           [
                             {
-                                url: 'https://m.xdclass.net',
+                                url: 'https://github.com/Cekun',
                                 image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/bat.png',
                                 label:'分类一'
                             },
                              {
-                                url: 'https://m.xdclass.net',
+                                url: 'https://github.com/Cekun',
                                 image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/bat.png',
                                 label:'分类一'
                             },
                             {
-                                url: 'https://m.xdclass.net',
+                                url: 'https://github.com/Cekun',
                                 image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/bat.png',
                                 label:'分类一'
                             },
                             {
-                                url: 'https://m.xdclass.net',
+                                url: 'https://github.com/Cekun',
                                 image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/bat.png',
                                 label:'分类一'
                             },
                             {
-                                url: 'https://m.xdclass.net',
+                                url: 'https://github.com/Cekun',
                                 image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/bat.png',
                                 label:'分类一'
                             },
                             {
-                                url: 'https://m.xdclass.net',
+                                url: 'https://github.com/Cekun',
                                 image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/bat.png',
                                 label:'分类一'
                             },
                             {
-                                url: 'https://m.xdclass.net',
+                                url: 'https://github.com/Cekun',
                                 image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/bat.png',
                                 label:'分类一'
                             },
                             {
-                                url: 'https://m.xdclass.net',
+                                url: 'https://github.com/Cekun',
                                 image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/bat.png',
                                 label:'分类一'
                             },
                             {
-                                url: 'https://m.xdclass.net',
+                                url: 'https://github.com/Cekun',
                                 image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/bat.png',
                                 label:'分类一'
                             },
                             {
-                                url: 'https://m.xdclass.net',
+                                url: 'https://github.com/Cekun',
                                 image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/bat.png',
                                 label:'分类一'
                             },
