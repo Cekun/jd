@@ -3,7 +3,7 @@ module.exports = {
         devServer:{
             port: 8989,
             open: true, //自动打开网页
-            //每次更改这个配置文件的时候，都必须重新启动项目
+            //晕死：每次更改这个配置文件的时候，都必须重新启动项目
             before(app){
                 //mock接口
                 // app.get('请求地址',(req, res) => {
@@ -81,104 +81,104 @@ module.exports = {
                           [
                             {
                                 url: 'https://github.com/Cekun',
-                                image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/learn.png',
+                                image: 'https://avatars2.githubusercontent.com/u/22334376?s=400&u=72b18b9997a7700ce71dd7a24c46225a74803fd5&v=4',
                                 label:'分类一'
                             },
                                {
                                 url: 'https://github.com/Cekun',
-                                image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/learn.png',
+                                image: 'https://avatars2.githubusercontent.com/u/22334376?s=400&u=72b18b9997a7700ce71dd7a24c46225a74803fd5&v=4',
                                 label:'分类一'
                             },
                                {
                                 url: 'https://github.com/Cekun',
-                                image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/learn.png',
+                                image: 'https://avatars2.githubusercontent.com/u/22334376?s=400&u=72b18b9997a7700ce71dd7a24c46225a74803fd5&v=4',
                                 label:'分类一'
                             },
                                {
                                 url: 'https://github.com/Cekun',
-                                image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/learn.png',
+                                image: 'https://avatars2.githubusercontent.com/u/22334376?s=400&u=72b18b9997a7700ce71dd7a24c46225a74803fd5&v=4',
                                 label:'分类一'
                             },
                                {
                                 url: 'https://github.com/Cekun',
-                                image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/learn.png',
+                                image: 'https://avatars2.githubusercontent.com/u/22334376?s=400&u=72b18b9997a7700ce71dd7a24c46225a74803fd5&v=4',
                                 label:'分类一'
                             },
                                {
                                 url: 'https://github.com/Cekun',
-                                image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/learn.png',
+                                image: 'https://avatars2.githubusercontent.com/u/22334376?s=400&u=72b18b9997a7700ce71dd7a24c46225a74803fd5&v=4',
                                 label:'分类一'
                             },
                                {
                                 url: 'https://github.com/Cekun',
-                                image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/learn.png',
+                                image: 'https://avatars2.githubusercontent.com/u/22334376?s=400&u=72b18b9997a7700ce71dd7a24c46225a74803fd5&v=4',
                                 label:'分类一'
                             },
                                {
                                 url: 'https://github.com/Cekun',
-                                image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/learn.png',
+                                image: 'https://avatars2.githubusercontent.com/u/22334376?s=400&u=72b18b9997a7700ce71dd7a24c46225a74803fd5&v=4',
                                 label:'分类一'
                             },
                                {
                                 url: 'https://github.com/Cekun',
-                                image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/learn.png',
+                                image: 'https://avatars2.githubusercontent.com/u/22334376?s=400&u=72b18b9997a7700ce71dd7a24c46225a74803fd5&v=4',
                                 label:'分类一'
                             },
                                {
                                 url: 'https://github.com/Cekun',
-                                image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/learn.png',
+                                image: 'https://avatars2.githubusercontent.com/u/22334376?s=400&u=72b18b9997a7700ce71dd7a24c46225a74803fd5&v=4',
                                 label:'分类一'
                             },
                           ],
                           [
                             {
                                 url: 'https://github.com/Cekun',
-                                image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/bat.png',
+                                image: 'https://avatars2.githubusercontent.com/u/22334376?s=400&u=72b18b9997a7700ce71dd7a24c46225a74803fd5&v=4',
                                 label:'分类一'
                             },
                              {
                                 url: 'https://github.com/Cekun',
-                                image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/bat.png',
+                                image: 'https://avatars2.githubusercontent.com/u/22334376?s=400&u=72b18b9997a7700ce71dd7a24c46225a74803fd5&v=4',
                                 label:'分类一'
                             },
                             {
                                 url: 'https://github.com/Cekun',
-                                image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/bat.png',
+                                image: 'https://avatars2.githubusercontent.com/u/22334376?s=400&u=72b18b9997a7700ce71dd7a24c46225a74803fd5&v=4',
                                 label:'分类一'
                             },
                             {
                                 url: 'https://github.com/Cekun',
-                                image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/bat.png',
+                                image: 'https://avatars2.githubusercontent.com/u/22334376?s=400&u=72b18b9997a7700ce71dd7a24c46225a74803fd5&v=4',
                                 label:'分类一'
                             },
                             {
                                 url: 'https://github.com/Cekun',
-                                image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/bat.png',
+                                image: 'https://avatars2.githubusercontent.com/u/22334376?s=400&u=72b18b9997a7700ce71dd7a24c46225a74803fd5&v=4',
                                 label:'分类一'
                             },
                             {
                                 url: 'https://github.com/Cekun',
-                                image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/bat.png',
+                                image: 'https://avatars2.githubusercontent.com/u/22334376?s=400&u=72b18b9997a7700ce71dd7a24c46225a74803fd5&v=4',
                                 label:'分类一'
                             },
                             {
                                 url: 'https://github.com/Cekun',
-                                image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/bat.png',
+                                image: 'https://avatars2.githubusercontent.com/u/22334376?s=400&u=72b18b9997a7700ce71dd7a24c46225a74803fd5&v=4',
                                 label:'分类一'
                             },
                             {
                                 url: 'https://github.com/Cekun',
-                                image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/bat.png',
+                                image: 'https://avatars2.githubusercontent.com/u/22334376?s=400&u=72b18b9997a7700ce71dd7a24c46225a74803fd5&v=4',
                                 label:'分类一'
                             },
                             {
                                 url: 'https://github.com/Cekun',
-                                image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/bat.png',
+                                image: 'https://avatars2.githubusercontent.com/u/22334376?s=400&u=72b18b9997a7700ce71dd7a24c46225a74803fd5&v=4',
                                 label:'分类一'
                             },
                             {
                                 url: 'https://github.com/Cekun',
-                                image: 'https://xd-video-pc-img.oss-cn-beijing.aliyuncs.com/xdclass_pro/bannner/1901/bat.png',
+                                image: 'https://avatars2.githubusercontent.com/u/22334376?s=400&u=72b18b9997a7700ce71dd7a24c46225a74803fd5&v=4',
                                 label:'分类一'
                             },
                           ],

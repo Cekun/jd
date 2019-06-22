@@ -85,7 +85,7 @@ export default {
               }
               
             }else{
-              alert(result.message+"else");
+              alert(result.message);
             }
           } catch (error) {
             
